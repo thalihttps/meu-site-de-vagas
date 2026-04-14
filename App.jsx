@@ -9,7 +9,7 @@ import {
 
 // --- CONFIGURAÇÃO SUPABASE ---
 // IMPORTANTE: Substitua pelas suas chaves após criar o projeto no supabase.com
-const SUPABASE_URL = 'https://SEU_PROJETO.supabase.co';
+const SUPABASE_URL = 'https://zyyiiqjnjigbhoakcned.supabase.co';
 const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inp5eWlpcWpuamlnYmhvYWtjbmVkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYxMjAwNjEsImV4cCI6MjA5MTY5NjA2MX0.kvbOtrfXvXV3y29k3kZ07YDCmW4--gzVAc6l4MflpFA';
 
 // Variável global para o cliente Supabase
